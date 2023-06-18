@@ -1,0 +1,21 @@
+.home{
+    height: '100vh';
+    display: 'flex';
+    justify-Content: 'center';
+    align-Items: 'left';
+    flex-Direction: 'column';
+    background-Position: 'center';
+    background-Repeat: 'no-repeat';
+    background-Size: 'cover';
+}
+
+
+
+
+
+
+
+
+
+/* mobile app  */
+@media only screen and (max-width:600px) {}
